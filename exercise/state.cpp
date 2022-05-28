@@ -3,7 +3,6 @@
 using namespace std;
 typedef long long ll;
 #define fi(a,b) for(int i = a; i <= b; ++i)
-#define fr(a,b) for(int i = a; i >= b; --i)
 
 int n,m;
 const int N = 12;
