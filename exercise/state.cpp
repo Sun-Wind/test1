@@ -4,7 +4,7 @@ using namespace std;
 typedef long long ll;
 #define fi(a,b) for(int i = a; i <= b; ++i)
 #define fr(a,b) for(int i = a; i >= b; --i)
-using pii = pair<int,int>;
+
 int n,m;
 const int N = 12;
 int st[1 << N];
