@@ -1,7 +1,6 @@
 #include<iostream>
 #include<utility>
 using namespace std;
-typedef long long ll;
 #define fi(a,b) for(int i = a; i <= b; ++i)
 
 int n,m;
