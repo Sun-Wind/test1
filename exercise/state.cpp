@@ -3,9 +3,7 @@
 using namespace std;
 #define fi(a,b) for(int i = a; i <= b; ++i)
 
-int n,m;
-const int N = 12;
-int st[1 << N];
+int n,m;int st[1 << N];
 
 int main()
 {
